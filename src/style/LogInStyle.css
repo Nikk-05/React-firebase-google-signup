@@ -1,0 +1,38 @@
+
+/* Image */
+
+.line-word{
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin:15px 0;
+}
+
+.line{
+    border-top: 1px solid rgb(100, 87, 87);
+    width: 43%
+}
+
+.word{
+    margin:0 5px;
+}
+
+.options{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px 0;
+}
+.options img{
+    margin:0 10px;
+    background-color: aliceblue;
+    padding:0.3em;
+    border-radius: 50%;
+    height:2em;
+    width:2em;
+}
+
+.options p{
+    color:rgb(66, 58, 58)
+}
