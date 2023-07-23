@@ -33,7 +33,7 @@ function LogIn(){
                     <div className='line'></div>
                 </div>   
                 <div className='options'>
-                    <p>Continue with</p> <span><img src={googleImg} onClick={signwithGoogle}></img></span>
+                    <p>Continue with </p> <span><img src={googleImg} onClick={signwithGoogle}></img></span>
                 </div>
             </div>
         </div>
